@@ -7,7 +7,7 @@ The semantic parsing project is divided into three steps:
 3) sentence generation (though we should consider this step simultaneously before)
 
   lexicon acquision:
-   for this step, two algorithms is initially implemented. Both programs run under the same directory of the one-to-one-mapping-data folder.
+   for this step, two algorithms are initially implemented. Both programs run under the same directory of the one-to-one-mapping-data folder.
    
    = IBM model 1, word-alignment method =
    >>>With EM algorithm integreted into the model for estimating the translation probability
